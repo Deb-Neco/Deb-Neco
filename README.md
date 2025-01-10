@@ -7,14 +7,15 @@ Estou iniciando minha jornada na área de Testes de Software, com foco em garant
 Estou me dedicando a aprender e aplicar boas práticas na área de Qualidade de Software. Aqui estão alguns tópicos que já explorei:
 
 <p>7 Princípios do Teste de Software</p>
- - A mentalidade e o papel de um QA em equipes ágeis.
- - Aplicação de técnicas de teste em cenários reais.
- - Colaboração com desenvolvedores e membros do time ágil.
- - Planejamento e execução de testes com Excel.
- - Uso de Gherkin para escrever testes, do básico ao avançado.
- - Gestão e controle de defeitos em projetos.
- - Práticas para melhorar a eficiência no processo de teste.
+ <p>A mentalidade e o papel de um QA em equipes ágeis</p>
+ <p>Aplicação de técnicas de teste em cenários reais.</p> 
+ <p>Colaboração com desenvolvedores e membros do time ágil</p> 
+ <p>Planejamento e execução de testes com Excel</p> 
+ <p>Uso de Gherkin para escrever testes, do básico ao avançado</p>
+ <p>Gestão e controle de defeitos em projetos</p>
+ <p>Práticas para melhorar a eficiência no processo de teste</p>
 Estou sempre buscando novos aprendizados para aprimorar minhas habilidades como QA e contribuir com a qualidade dos projetos.
+
   <a href="https://github.com/Deb-Neco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deb-Neco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb-Neco&layout=compact&langs_count=7&theme=dracula"/>
