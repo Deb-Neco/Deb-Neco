@@ -1,5 +1,20 @@
-## Olá ! Sou Deborah Neco 
+## Olá ! Sou Deborah Neco Costa 
 <div align="center">
+
+<p>Explorando a Qualidade de Software<p>
+Estou iniciando minha jornada na área de Testes de Software, com foco em garantir a qualidade e confiabilidade de aplicações. Tenho interesse em explorar tanto Testes Manuais quanto Automação de Testes e estou aprendendo sobre:
+
+Estou me dedicando a aprender e aplicar boas práticas na área de Qualidade de Software. Aqui estão alguns tópicos que já explorei:
+
+<p>7 Princípios do Teste de Software</p>
+ - A mentalidade e o papel de um QA em equipes ágeis.
+ - Aplicação de técnicas de teste em cenários reais.
+ - Colaboração com desenvolvedores e membros do time ágil.
+ - Planejamento e execução de testes com Excel.
+ - Uso de Gherkin para escrever testes, do básico ao avançado.
+ - Gestão e controle de defeitos em projetos.
+ - Práticas para melhorar a eficiência no processo de teste.
+Estou sempre buscando novos aprendizados para aprimorar minhas habilidades como QA e contribuir com a qualidade dos projetos.
   <a href="https://github.com/Deb-Neco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deb-Neco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb-Neco&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,16 +30,5 @@
   <img align="center" alt="VCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
-  ##
- 
-<!-- <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
- 
-</div> -->
